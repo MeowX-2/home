@@ -3,6 +3,8 @@ body {
     font-family: 'Lato', sans-serif;
 font-family: 'Montserrat', sans-serif;
 font-family: 'Quicksand', sans-serif;
+  background: rgb(200,219,225);
+
     color: #333;
     margin: 0;
     padding: 0;
@@ -44,6 +46,7 @@ nav a {
 }
 
 section {
+    background: rgb(200,219,225);
     padding: 40px 0;
 }
 
