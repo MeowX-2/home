@@ -97,8 +97,8 @@ h3 {
 }
 
 footer {
-    background-color: #22385c;
-    color: #fff;
+    background: rgb(200,219,225);
+    color: rgb(200,219,225);
     text-align: center;
     padding: 1em 0;
 }
