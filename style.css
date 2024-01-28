@@ -42,12 +42,17 @@ nav li {
 nav a {
     text-decoration: none;
     color: #fff;
+    link: #fff;
+    visited: #fff;
     font-weight: bold;
 }
 
 section {
     background: rgb(200,219,225);
     padding: 40px 0;
+    a:link{color:blue; text-decoration:none;}
+    a:visited{color:#404576; text-decoration:none;}
+    a:hover{color:black; text-decoration:solid;font-size:115%;}
 }
 
 .section-about {
@@ -105,3 +110,4 @@ footer {
     text-align: center;
     padding: 1em 0;
 }
+
